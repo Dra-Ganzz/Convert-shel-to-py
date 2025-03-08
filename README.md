@@ -14,4 +14,4 @@ ls
 python convert_shel.py
 ```
 
-Support https://saweria.co/donate/Vindra
+Support https://saweria.co/donate/VindraGanzz
